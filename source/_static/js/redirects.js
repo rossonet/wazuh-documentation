@@ -34,6 +34,24 @@ removedUrls['x.y'] = [
 ];
 */
 
+/* *** RELEASE 4.2 ****/
+
+/* Pages added in 4.2 */
+
+newUrls['4.2'] = [
+  '/user-manual/reference/tools/wazuh-control.html',
+  '/user-manual/reference/tools/wazuh-regex.html',
+];
+
+removedUrls['4.2'] = [
+  '/user-manual/reference/tools/ossec-control.html',
+  '/user-manual/reference/tools/ossec-regex.html',
+  '/user-manual/reference/tools/rootcheck_control.html',
+  '/user-manual/reference/tools/syscheck_control.html',
+  '/user-manual/reference/tools/syscheck_update.html',
+  '/user-manual/reference/tools/util.sh.html',
+];
+
 /* *** RELEASE 4.1 ****/
 
 /* Pages added in 4.1 */
