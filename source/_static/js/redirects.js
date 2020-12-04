@@ -51,6 +51,7 @@ removedUrls['4.2'] = [
   '/user-manual/reference/tools/syscheck_update.html',
   '/user-manual/reference/tools/util.sh.html',
   '/user-manual/reference/tools/ossec-makelists.html',
+  '/user-manual/reference/tools/ossec-logtest.html',
 ];
 
 /* *** RELEASE 4.1 ****/
