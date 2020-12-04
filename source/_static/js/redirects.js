@@ -54,6 +54,19 @@ removedUrls['4.2'] = [
   '/user-manual/reference/tools/ossec-logtest.html',
 ];
 
+redirections.push(
+    {
+      'target': ['4.1=>4.2', '4.2=>4.1'],
+      '4.1': '/user-manual/reference/tools/ossec-control.html',
+      '4.2': '/user-manual/reference/tools/wazuh-control.html',
+    },
+    {
+      'target': ['4.1=>4.2', '4.2=>4.1'],
+      '4.1': '/user-manual/reference/tools/ossec-regex.html',
+      '4.2': '/user-manual/reference/tools/wazuh-regex.html',
+    },
+);
+
 /* *** RELEASE 4.1 ****/
 
 /* Pages added in 4.1 */
