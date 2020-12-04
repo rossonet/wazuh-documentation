@@ -5,7 +5,7 @@
 ossec-maild
 =============
 
-The ossec-maild program sends alerts via email.  It is started by :ref:`ossec-control`.
+The ossec-maild program sends alerts via email.  It is started by :ref:`wazuh-control`.
 
 +-----------------+-------------------------------------------------------------------------------------------------+
 | **-c <config>** | Run using <config> as the configuration file.                                                   |
